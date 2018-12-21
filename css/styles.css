@@ -1,0 +1,58 @@
+body {
+  background-color: maroon;
+}
+
+/* .profile-pic {
+    max-width: 20px;
+    max-height: 20px;
+    display: block;
+} */
+
+.file-upload {
+    display: none;
+}
+.circle {
+    border-radius: 100px !important;
+    overflow: hidden;
+    width: 128px;
+    height: 128px;
+    border: 8px solid rgba(255, 255, 255, 0.7);
+    position:absolute;
+    top: 72px;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
+.p-image {
+  position: absolute;
+  top: 167px;
+  right: 30px;
+  color: #666666;
+  transition: all .3s cubic-bezier(.175, .885, .32, 1.275);
+}
+.p-image:hover {
+  transition: all .3s cubic-bezier(.175, .885, .32, 1.275);
+}
+.upload-button {
+  font-size: 1.2em;
+}
+
+.upload-button:hover {
+  transition: all .3s cubic-bezier(.175, .885, .32, 1.275);
+  color: #999;
+}
+
+
+input.hidden {
+position: absolute;
+left: -9999px;
+}
+
+.col-md-7 ,{
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ94dNP0rtKltyO-4ixUMx411_okwv-q8oBNY92i1sfkqTsXmhc_g");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+}
