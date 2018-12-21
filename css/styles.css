@@ -55,4 +55,8 @@ left: -9999px;
   background-size: cover;
 }
 
+.col-md-8{
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ94dNP0rtKltyO-4ixUMx411_okwv-q8oBNY92i1sfkqTsXmhc_g");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
